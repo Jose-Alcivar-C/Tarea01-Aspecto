@@ -1,2 +1,2 @@
 # Tarea01-Aspecto
-se recomienda ejecutarlo como aspecto desde el archivo "Index"
+Se recomienda que al ejecutarlo como aspecto, se haga desde el archivo "Index"
